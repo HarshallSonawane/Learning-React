@@ -37,7 +37,7 @@ class Counter extends Component {
     }
 }
  
-export default Counter;
+export default Counter; 
 
 //PLAYING WITH THE BUTTON,CHANGING COLOR OF TEXT ON SOME EVENT ETC...
             {/* <span style={this.styles}>{this.formatCount()}</span>    
